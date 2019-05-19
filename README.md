@@ -7,13 +7,13 @@ The algorithm was developed by Birant, D., & Kut, A.:
 
 This implementation is slightly different from others out there as focuses on the hourly patterns in a day - the temporal difference between any 2 objects is calcualted based on the absolute hour difference. 
 
-Example 1: 
+Eg 1: 
 
 object 1 occurred on May 20, 2019 8 am,   object 2 occurred on April 30, 2018 8am
 
 the temporal difference between these 2 objects is 0
 
-Example 2: 
+Eg 2: 
 
 object 1 occurred on May 20, 2019 11 pm,   object 2 occurred on April 30, 2018 1am
 
